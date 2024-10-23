@@ -40,7 +40,9 @@ Copy code
 }
 
 Status Cods
+
 200: Token generated successfully.
+
 401: Invalid customer ID.
 
 **2. Get Sensor Dashboard Link**
@@ -61,8 +63,11 @@ Response:
 }
 
 Status Codes:
+
 200: Dashboard link retrieved successfully.
+
 403: Unauthorized access to the sensor.
+
 404: Dashboard link not found.
 
 
