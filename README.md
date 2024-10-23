@@ -13,6 +13,7 @@ Authorization Checks:
 Only customers authorized for a particular sensor will be allowed to retrieve its dashboard link.
 
 **Endpoints**
+
 **1. Generate JWT Token**
 POST /token
 
