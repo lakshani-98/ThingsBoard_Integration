@@ -1,4 +1,4 @@
-# ThinsBoard Sensor Dashboard API
+# ThingsBoard Sensor Dashboard API
 This is a Flask application that provides secure access to ThingsBoard sensor dashboards using JWT-based authentication. The API allows users to generate access tokens and retrieve dashboard links for sensors based on predefined customer-to-sensor mappings.
 
 **Features**
